@@ -1,0 +1,7 @@
+.env
+.venv/
+__pycache__/
+*.pyc
+.cache/
+config/sql_endpoints.json
+images/_proof*.png
