@@ -7,6 +7,12 @@ Local web application for auditing direct Microsoft Fabric item access and valid
 
 The app lets an administrator select a workspace and Microsoft Entra user or service principal, identify Lakehouses and Warehouses with direct access, then validate SQL endpoint or OneLake storage access.
 
+## Walkthrough
+
+<video src="images/Fabric_permissions_recording.mp4" controls muted playsinline width="100%"></video>
+
+If the video does not render in your GitHub client, [open the walkthrough recording](images/Fabric_permissions_recording.mp4).
+
 ## Features
 
 - Audits direct item access through the Fabric Admin `List Access Entities` preview API.
