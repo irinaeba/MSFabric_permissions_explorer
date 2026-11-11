@@ -9,9 +9,9 @@ The app lets an administrator select a workspace and Microsoft Entra user or ser
 
 ## Walkthrough
 
-<video src="images/Fabric_permissions_recording.mp4" controls muted playsinline width="100%"></video>
+<video src="images/Fabric_permissions_recording.mov" controls muted playsinline width="100%"></video>
 
-If the video does not render in your GitHub client, [open the walkthrough recording](images/Fabric_permissions_recording.mp4).
+If the video does not render in your GitHub client, [open the walkthrough recording](images/Fabric_permissions_recording.mov).
 
 ## Features
 
